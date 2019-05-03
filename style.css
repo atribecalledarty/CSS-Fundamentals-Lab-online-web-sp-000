@@ -25,10 +25,11 @@ nav a {
 
 #details{
   display: block;
-  background-color: #aa9922;
+  
 }
 
 #details div{
+  background-color: #aa9922;
   float: left;
   width: 25%;
 }
