@@ -14,11 +14,11 @@ nav a {
   background-color: #5f9f5f;
 }
 
-section#featured-property figure{
+#featured-property figure{
   text-align: center;
 }
 
-section#featured-property p{
+#featured-property p{
   width: 800px;
   text-align: center;
 }
