@@ -8,7 +8,9 @@ header {
   text-align: center;
 }
 
-
+nav a {
+  padding: 10px;
+}
 
 section#featured-property{
   text-align: center;
